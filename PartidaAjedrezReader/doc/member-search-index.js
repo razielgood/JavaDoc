@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"partidaAjedrezReader","c":"PartidaAjedrezReader","l":"mostrarInformacionPartida(int)"},{"p":"partidaAjedrezReader","c":"PartidaAjedrezReader","l":"PartidaAjedrezReader(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
